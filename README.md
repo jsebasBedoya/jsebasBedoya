@@ -33,4 +33,4 @@ I'm a Systems Engineering student at the Francisco Jose de Caldas District Unive
 ---
 ## 📬 Contact
 - 📧 **Email:** [Juansebastianb490@gmail.com](mailto:Juansebastianb490@gmail.com)
-- 💼 **LinkedIn:** [https://www.linkedin.com/in/juan-sebastian-bedoya-4794a5288/]
+- 💼 **LinkedIn:**[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-sebastian-bedoya-4794a5288/)
